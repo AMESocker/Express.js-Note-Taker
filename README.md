@@ -1,5 +1,23 @@
 # Express.js-Note-Taker
-M11C
+
+A node driven application using express to read and write notes.
+
+## Demo of Application
+
+[Deployed Application]()
+
+## Required Installation
+
+Express
+uuid
+
+## Tools Used
+
+        Visual Studio Code
+        GitHub
+        Git Bash
+        Google Chrome
+            
 ## User Story
 
 ```
